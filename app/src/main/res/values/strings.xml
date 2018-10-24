@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Whowroteitkoestardono</string>
+    <string name="loading">Loading</string>
+    <string name="no_search_term">No Search Item</string>
+    <string name="no_network">No Network</string>
+    <string name="no_results">No Results</string>
+</resources>
